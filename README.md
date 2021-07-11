@@ -1,7 +1,7 @@
 # Microservices-Architecture
 Microservices Architecture from scratch with real time examples.
 
-👉 [Course Plan](https://youtube.com/greenlearner)
+👉 [Microservice - Architecture with realtime examples](https://youtube.com/greenlearner)
 
 👉 [Monolith vs Microservices - An Analysis](https://youtu.be/wRWxf8cU6pU)
 
@@ -9,7 +9,7 @@ Microservices Architecture from scratch with real time examples.
 
 👉 [Microservices : Design Patterns](https://youtu.be/SkE0-i6rkFA)
 
- Microservices Characteristics :  Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery
+ Microservices Characteristics ▶️ Scalability ▶️ Availability ▶️ Resiliency ▶️ Isolating Failures ▶️ Continuous delivery
  
  ⌨ [Microservices Decomposition Pattern : By Domain and Subdomain](https://youtu.be/_U36FMfU1-M)
  
